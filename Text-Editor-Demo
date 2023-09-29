@@ -1,0 +1,21 @@
+Java is  a general purpose, high-level programming language that was first released by Sun Microsystem in 1995.
+
+It is now owned by Oracle Corporation.
+
+Java is designed to be a platform-independent, meaning that programs written in Java can run on any hardware or software platfrom that 
+support Java.
+
+And this is achieved through the use of the Java Virtual Machine (JVM), which translates Java bytecode into Machine language.
+
+This application (Text-Editor) is Develop using Java Swing library.
+
+This Text Editor allows you to save and open a text file using a graphical user interface (GUI) application.
+
+This system is develop with the Java Swing library which gives a set of components that can be use to build a Graphical user interface(GUI).
+
+This application has an easy and simple design with buttons to save and open a Text File. 
+
+
+
+
+Developer- Alataf Ansari (CSE)
