@@ -45,6 +45,7 @@ public class Text_Editor extends JFrame implements ActionListener {
         setVisible(true);
     }
 
+    //Action mode
     public void actionPerformed(ActionEvent e) {
         if (e.getSource() == openButton) {
             JFileChooser fileChooser = new JFileChooser();
